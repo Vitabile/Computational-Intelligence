@@ -1,1 +1,2 @@
-### My public repository for the course of Politecnico of Turin about Computetional Intelligence
+### Computational Intelligence
+This repo contains all my work during the Computational Intelligence course at [Politecnico di Torino](https://www.polito.it) in 2023/2024.
