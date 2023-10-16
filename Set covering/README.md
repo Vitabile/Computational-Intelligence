@@ -14,4 +14,6 @@ Full line covered: <br>
 \|--------|
 
 ## Solution
-We want to solve this problem with the path search: Breadth Search, Depth Search, Uniform Cost Search
+We want to solve this problem with the path search:<br>
+Uniformed Search: Breadth Search, Depth Search, Uniform Cost Search <br>
+Informed Search: A*
