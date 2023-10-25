@@ -1,4 +1,5 @@
 # Set Covering Problem
+### In this notebook is the solution to Lab 01.
 
 ## Description
 The Set Covering Problem is a sample problem where we have some sets of lines, and we want to cover a full line.
@@ -16,4 +17,4 @@ Full line covered: <br>
 ## Solution
 We want to solve this problem with the path search:<br>
 Uniformed Search: Breadth Search, Depth Search, Uniform Cost Search <br>
-Informed Search: A*
+Informed Search: Greedy Best First, A* Search
