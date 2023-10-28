@@ -1,13 +1,14 @@
 [tool.poetry]
-name = "prova"
+name = "CI-2023"
 version = "0.1.0"
-description = "prova"
+description = "Computational Intelligence Course Polito"
 authors = ["Vitabile"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
 numpy = "^1.26.1"
+scipy = "^1.11.3"
 
 
 [tool.poetry.group.dev.dependencies]
