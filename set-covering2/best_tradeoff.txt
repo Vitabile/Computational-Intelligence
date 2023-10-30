@@ -1,0 +1,35 @@
+Random Mutation Hill Climbing:
+Density: 0.3
+Problem size: 100
+Number of calls to fitness function: 95
+Goodness: (100, -11)
+
+Random Mutation Hill Climbing:
+Density: 0.7
+Problem size: 100
+Number of calls to fitness function: 54
+Goodness: (100, -4)
+
+Random Mutation Hill Climbing:
+Density: 0.3
+Problem size: 1000
+Number of calls to fitness function: 74
+Goodness: (1000, -15)
+
+Random Mutation Hill Climbing:
+Density: 0.7
+Problem size: 1000
+Number of calls to fitness function: 55
+Goodness: (1000, -5)
+
+Random Mutation Hill Climbing:
+Density: 0.3
+Problem size: 5000
+Number of calls to fitness function: 77
+Goodness: (5000, -25)
+
+Random Mutation Hill Climbing:
+Density: 0.7
+Problem size: 5000
+Number of calls to fitness function: 58
+Goodness: (5000, -8)
