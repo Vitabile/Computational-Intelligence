@@ -3,3 +3,4 @@ This repo contains all my work during the Computational Intelligence course at [
 
 ### Labs
 * Lab 01: in **set-covering** directory
+* Lab 02: in **lab2** directory
