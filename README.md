@@ -5,6 +5,7 @@ This repo contains all my work during the Computational Intelligence course at [
 * **Lab 01**: in **set-covering** directory
 * **Lab 02**: in **lab2** directory
 * **Lab 03**: in **lab9** directory
+* **Lab 04**: in **lab10** directory
 
 ### Challenge
 * **Halloween**: in **set-covering2** directory
